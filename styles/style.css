@@ -1,6 +1,10 @@
 body {
-	background-color: #9BCBDA
+	background-color: #BAE2FB
 }
 .plain-list {
 	list-style: none;
+}
+#Profile {
+	width: 300px;
+	float: left;
 }
